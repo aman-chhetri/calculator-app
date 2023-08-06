@@ -1,6 +1,6 @@
 # Calculator App 🔢
 
-This Calculator App is designed to provide a seamless and intuitive experience for performing basic mathematical calculations. With a clean and responsive user interface, this application serves as a practical tool for both simple and complex calculations.
+This Calculator App is designed to provide a seamless and intuitive experience for performing basic mathematical calculations. With a clean and responsive user interface, this application serves as a practical tool for calculations.
 
 You can access the deployed application [here](https://calculator-web-app-v1.netlify.app/).
 
